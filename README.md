@@ -1,1 +1,3 @@
 # Amazon
+## Type Detection on Amazon: Movie or TV Series?
+This project aims to develop a machine learning model capable of automatically classifying products listed on Amazon as either movies or TV seasons. Leveraging a dataset of Amazon product titles and descriptions, we will employ natural language processing techniques and machine learning algorithms to predict the type of content each product represents. By automating this classification task, we aim to enhance the efficiency of content categorization, helping users easily find and purchase their desired movies and TV series on the platform.
